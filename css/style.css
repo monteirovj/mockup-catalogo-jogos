@@ -3198,3 +3198,9 @@ p.cart a:hover {
 	 text-align: center;
 
  }
+
+ .image-frontpage img{
+	height:150px;
+    width:auto;/*maintain aspect ratio*/
+    max-width:500px;
+ }
