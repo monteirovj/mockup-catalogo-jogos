@@ -3200,7 +3200,7 @@ p.cart a:hover {
  }
 
  .image-frontpage img{
-	height:150px;
+	height:175px;
     width:auto;/*maintain aspect ratio*/
     max-width:500px;
  }
