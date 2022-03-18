@@ -3204,3 +3204,52 @@ p.cart a:hover {
     width:auto;/*maintain aspect ratio*/
     max-width:500px;
  }
+
+ .paragrafo-sobre {
+		margin: auto;
+		text-indent: 3ch;
+		width: 60%;
+		line-height: 1.6;
+		font-size: 1em;
+ }
+
+	
+ .titulo-sobre{
+		margin: auto;
+		color:rgb(0, 0, 0);
+		font-size: 3em;
+		padding-top: 0.5em;
+		padding-bottom: 0.5em;
+		font-weight:bold;
+		width: 60%;
+ }
+ .paragrafo-sobre {
+		margin: auto;
+		text-indent: 3ch;
+		width: 60%;
+		line-height: 1.6;
+		font-size: 1em;
+		padding-bottom: 1em;
+ }
+
+ .equipe-sobre-titulo{
+	margin: auto;
+	width: 60%;
+	line-height: 1.6;
+	font-size: 1.3em;
+	font-weight: bold;
+	padding-bottom: 0.5em;
+ }
+
+ .equipe-sobre{
+	text-indent: 3ch;
+	margin: auto;
+	width: 60%;
+	line-height: 1.5;
+	font-size: 1.0em;
+ }
+
+ .equipe-sobre b {
+	font-weight: bold;
+}
+
